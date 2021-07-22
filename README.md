@@ -1,7 +1,7 @@
 # StyleGAN2-ADA-pytorch-for-gray-images
 This is code for StlyeGAN2-ADA-pytorch for gray images.
 
-https://user-images.githubusercontent.com/58503653/126597615-1d8090a5-bd98-41fb-bd7d-4ed54332133e.png
+![figure_7](https://user-images.githubusercontent.com/58503653/126597885-68f98821-d633-4617-87bd-0e3aa2d938ec.png)
 
 Since the orgianl code (https://github.com/NVlabs/stylegan2-ada-pytorch) does not work in gray scale iamges, I modified the code for gray images (N_channel=1). 
 
