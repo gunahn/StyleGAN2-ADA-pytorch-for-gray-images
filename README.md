@@ -12,7 +12,9 @@ Since the orgianl code (https://github.com/NVlabs/stylegan2-ada-pytorch) does no
 you should check the [notebook file](https://github.com/gunahn/StyleGAN2-ADA-pytorch-for-gray-images/blob/main/StlyeGAN2-ADA-pytorch%20for%20gray%20images.ipynb) for the usuage of Stlyegan2-ada-pytorch for gray images. 
 
 > 64-bit Python 3.7 and PyTorch 1.7.1. See https://pytorch.org/ for PyTorch install instructions.
+
 > CUDA toolkit 11.0 or later. Use at least version 11.1 if running on RTX 3090. (Why is a separate CUDA toolkit installation required? See comments in #2.)
+
 > Python libraries: pip install click requests tqdm pyspng ninja imageio-ffmpeg==0.4.3. We use the Anaconda3 2020.11 distribution which installs most of these by default.
 
 
